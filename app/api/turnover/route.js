@@ -40,45 +40,4 @@ export async function GET(request) {
   } catch (error) {
     return NextResponse.json({ error }, { status: 500 });
   }
-}
-/*
-  WITH RECURSIVE employee_hierarchy AS (
-  SELECT email, email_gestor, admissao, rescisao
-  FROM employees
-  WHERE email = 'daniellewinters@kpis.tech'
-  UNION ALL
-  SELECT e.email, e.email_gestor, e.admissao, e.rescisao
-  FROM employees e
-  JOIN employee_hierarchy eh ON e.email_gestor = eh.email
-)
-SELECT
-  to_char(date_trunc('month', eh.admissao), 'YYYY-MM') AS mes,
-  COUNT(*) AS headcount
-FROM employee_hierarchy eh
-WHERE
-  (eh.rescisao IS NULL OR eh.rescisao >= eh.admissao)
-GROUP BY mes
-ORDER BY mes;
-
-*/
-
-/**
- * 
- *     WITH RECURSIVE employee_hierarchy AS (
-      SELECT email, email_gestor, admissao, rescisao
-      FROM employees
-      WHERE email = 'sharonbarr@kpis.tech'
-      UNION ALL
-      SELECT e.email, e.email_gestor, e.admissao, e.rescisao
-      FROM employees e
-      JOIN employee_hierarchy eh ON e.email_gestor = eh.email
-    )
-    SELECT
-      to_char(date_trunc('month', eh.admissao), 'YYYY-MM') AS mes,
-      COUNT(*) AS turnover
-    FROM employee_hierarchy eh
-    WHERE eh.rescisao IS NOT NULL
-    GROUP BY mes
-    ORDER BY mes;
-    
- */
+};
