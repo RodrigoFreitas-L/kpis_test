@@ -10,7 +10,7 @@ const EmployeeDashboard = ({ ...props }) => {
   const headCountData = useQuery({
     queryKey: ['headcount'],
     queryFn: async () => {
-      const fetching = await fetch(`http://localhost:3000/api/headcount/?email=${email}`);
+      const fetching = await fetch(`/api/headcount/?email=${email}`);
       const dataJson = await fetching.json();
       const newData = [{
         id: 'headcount',
@@ -29,9 +29,9 @@ const EmployeeDashboard = ({ ...props }) => {
   const turnoverData = useQuery({
     queryKey: ['turnover'],
     queryFn: async () => {
-      const fetchingTurnover = await fetch(`http://localhost:3000/api/turnover/?email=${email}`);
+      const fetchingTurnover = await fetch(`/api/turnover/?email=${email}`);
       const turnoverData = await fetchingTurnover.json();
-      const fetchingHeadcount = await fetch(`http://localhost:3000/api/headcount-for-turnover/?email=${email}`);
+      const fetchingHeadcount = await fetch(`/api/headcount-for-turnover/?email=${email}`);
       const headcountData = await fetchingHeadcount.json();
       return headcountByTurnover(headcountData, turnoverData);
     }
