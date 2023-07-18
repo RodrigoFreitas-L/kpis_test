@@ -21,7 +21,7 @@ export async function GET(request) {
       FROM (
         SELECT generate_series(
                  DATE_TRUNC('month', MIN(admissao)),
-                 DATE_TRUNC('month', MAX(rescisao)),
+                 DATE_TRUNC('month', MAX(CURRENT_DATE)),
                  '1 month'
                ) AS mes
         FROM employee_hierarchy

@@ -8,6 +8,7 @@ export async function GET(request) {
     // In case we want to drop the table, we could use the following:
     // const result =
     //   await sql`DROP TABLE employees;`;
+    // return NextResponse.json(result, { status: 200 });
     return NextResponse.json({ message: 'Hello, for seeding the database, please, "uncomment" the code above on app/api/create-employees-table  :)' }, { status: 200 });
   } catch (error) {
     return NextResponse.json({ error }, { status: 500 });
