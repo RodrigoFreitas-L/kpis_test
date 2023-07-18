@@ -1,8 +1,7 @@
 "use client";
-import { TextField, Button, Container, Grid, Typography, Box } from '@mui/material';
+import { TextField, Button, Grid, Typography } from '@mui/material';
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import EmployeeDashboard from './employeeDashboard/page';
 
 function Home() {
 
@@ -11,6 +10,8 @@ function Home() {
   });
   const [error, setError] = useState(false);
   const [disabled, setDisabled] = useState(true);
+
+  const router = useRouter();
 
   const handleChange = ({ target }) => {
     setInput((prev) => ({
@@ -25,13 +26,14 @@ function Home() {
     setDisabled(!regex.test(email));
   })
 
-  const handleSubmit = () => {
+  const handleSubmit = event => {
+    event.preventDefault();
     if (!input.email.endsWith('kpis.tech')) {
       setError(true);
-      return;
+      return false;
     } else {
       setError(false);
-      <EmployeeDashboard email={input.email} />
+      return router.push(`/employeeDashboard?email=${input.email}`);
     }
   }
 
@@ -77,7 +79,7 @@ function Home() {
             alignItems="center"
             justifyContent="center"
           >
-            <form action="employeeDashboard">
+            <form onSubmit={(e) => handleSubmit(e)}>
               <TextField
                 error={error}
                 name="email"
@@ -90,7 +92,7 @@ function Home() {
                 helperText={error ? 'Email inválido' : 'Digite seu email'}
               />
               <Button
-                onClick={() => handleSubmit()}
+                onClick={(e) => handleSubmit(e)}
                 size="large"
                 color="primary"
                 variant="contained"

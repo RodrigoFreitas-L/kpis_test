@@ -34,6 +34,8 @@ Everything needed is inside the app folder, and you can edit it as you please.
 
 [React Query](https://tanstack.com/query/latest/docs/react/overview) - Eliminating the use of any UseEffect and so, our application doesn't "re-render" any of our components.
 
+[Material UI](https://mui.com/material-ui/getting-started/) - For React component's design.
+
 [Cypress](https://www.cypress.io/) - For testing our application, e2e.
 
 [Babeljs](https://babeljs.io/docs/babel-plugin-transform-modules-commonjs) - A plugin to be able to transform modules commonjs so we are able to use import outside modules.
@@ -134,3 +136,17 @@ GET /api/headcount-for-turnover?email=email@email.com
 ]
 ```
 + Description: This endpoint retrieves the absolute number of employees who work for the specified email on each month, starting from the admission date of the email's owner.
+
+## Testing
+
+For testing our application we will be using `cypress` and `start-server-and-test`.
+
++ `start-server-and-test` starts the server, run our cypress tests and after the tests are done, server is closed.
+
++ How to:
+```bash
+#With UI, so we can see how and what's going on
+npm run cypress-open
+#Without UI, so we see only the terminal
+npm run cypress-run
+```
