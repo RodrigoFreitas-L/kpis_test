@@ -12,7 +12,6 @@ const EmployeeDashboard = ({ ...props }) => {
     queryFn: async () => {
       const fetching = await fetch(`/api/headcount/?email=${email}`);
       const dataJson = await fetching.json();
-      console.log(dataJson);
       const newData = [{
         id: 'headcount',
         data: dataJson.map((item) => {
@@ -32,10 +31,8 @@ const EmployeeDashboard = ({ ...props }) => {
     queryFn: async () => {
       const fetchingTurnover = await fetch(`/api/turnover/?email=${email}`);
       const turnoverData = await fetchingTurnover.json();
-      console.log('turnoverdata', turnoverData);
       const fetchingHeadcount = await fetch(`/api/headcount-for-turnover/?email=${email}`);
       const headcountData = await fetchingHeadcount.json();
-      console.log('headcountData', headcountData);
       return headcountByTurnover(headcountData, turnoverData);
     }
   });
@@ -57,7 +54,6 @@ const EmployeeDashboard = ({ ...props }) => {
         }),
       },
     ];
-    console.log('newData', newData);
     return newData;
   };
 
