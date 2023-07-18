@@ -4,18 +4,23 @@ import data from "./data.json";
 
 export async function GET(request) {
 
+  // try {
+  //   data.map(async (item) => {
+  //     if (item.rescisao === "") {
+  //       item.rescisao = null
+  //     }
+  //     await sql`INSERT INTO employees (Status, Nome, Email, Email_Gestor, Admissao, Rescisao, Cargo) VALUES (${item.status}, ${item.nome}, ${item.email}, ${item.email_gestor}, TO_DATE(${item.admissao}, 'dd/mm/YYYY'), TO_DATE(${item.rescisao}, 'dd/mm/yyyy'), ${item.cargo});`
+  //   });
+  // } catch (error) {
+  //   return NextResponse.json({ error }, { status: 500 })
+
+  // }
+
+  // const response = await sql`SELECT * FROM employees;`;
+  // return NextResponse.json(response.rows, { status: 200 });
   try {
-    data.map(async (item) => {
-      if (item.rescisao === "") {
-        item.rescisao = null
-      }
-      await sql`INSERT INTO employees (Status, Nome, Email, Email_Gestor, Admissao, Rescisao, Cargo) VALUES (${item.status}, ${item.nome}, ${item.email}, ${item.email_gestor}, TO_DATE(${item.admissao}, 'dd/mm/YYYY'), TO_DATE(${item.rescisao}, 'dd/mm/yyyy'), ${item.cargo});`
-    });
+    return NextResponse.json({ message: 'Hello, for seeding the database, please, "uncomment" the code above on app/api/seed-table :)' }, { status: 400 })
   } catch (error) {
     return NextResponse.json({ error }, { status: 500 })
-
   }
-
-  const response = await sql`SELECT * FROM employees;`;
-  return NextResponse.json(response.rows, { status: 200 });
 }
