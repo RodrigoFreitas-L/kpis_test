@@ -6,13 +6,27 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "cypress-run": "start-server-and-test dev http://localhost:3000 \"cypress run --e2e\"",
+    "cypress-open": "start-server-and-test dev http://localhost:3000 \"cypress open --e2e\""
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.136",
+    "@mui/material": "^5.14.0",
+    "@nivo/line": "^0.83.0",
+    "@tanstack/react-query": "^4.29.23",
+    "@vercel/postgres": "^0.4.0",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.22.5",
+    "cypress": "^12.17.1",
+    "start-server-and-test": "^2.0.0"
   }
 }

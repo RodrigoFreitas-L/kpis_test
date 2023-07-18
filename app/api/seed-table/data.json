@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "status": "ativo",
+    "nome": "Danielle Winters",
+    "email": "daniellewinters@kpis.tech",
+    "email_gestor": "",
+    "admissao": "06/10/2021",
+    "rescisao": "",
+    "cargo": "Diretor"
+  },
+  {
+    "id": 1,
+    "status": "inativo",
+    "nome": "Pamela Berry",
+    "email": "pamelaberry@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "01/08/2021",
+    "rescisao": "17/07/2022",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 2,
+    "status": "ativo",
+    "nome": "Richard Manning",
+    "email": "richardmanning@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "28/01/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 3,
+    "status": "ativo",
+    "nome": "Craig Hammond",
+    "email": "craighammond@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "08/10/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 4,
+    "status": "inativo",
+    "nome": "Mitchell Peters",
+    "email": "mitchellpeters@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "16/03/2020",
+    "rescisao": "14/02/2021",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 5,
+    "status": "ativo",
+    "nome": "Adam Sanders",
+    "email": "adamsanders@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "25/04/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 6,
+    "status": "ativo",
+    "nome": "John Jackson",
+    "email": "johnjackson@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "28/09/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 7,
+    "status": "ativo",
+    "nome": "Matthew Flores",
+    "email": "matthewflores@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "01/05/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 8,
+    "status": "ativo",
+    "nome": "Matthew Beasley",
+    "email": "matthewbeasley@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "09/04/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 9,
+    "status": "inativo",
+    "nome": "Madison Taylor",
+    "email": "madisontaylor@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "26/03/2021",
+    "rescisao": "17/06/2021",
+    "cargo": "Analista"
+  },
+  {
+    "id": 10,
+    "status": "ativo",
+    "nome": "Kyle Bond DDS",
+    "email": "kylebonddds@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "13/09/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 11,
+    "status": "ativo",
+    "nome": "Jesse Anderson",
+    "email": "jesseanderson@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "11/11/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 12,
+    "status": "inativo",
+    "nome": "Sharon Santos",
+    "email": "sharonsantos@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "11/10/2022",
+    "rescisao": "10/08/2023",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 13,
+    "status": "ativo",
+    "nome": "Tiffany Ortega",
+    "email": "tiffanyortega@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "25/06/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 14,
+    "status": "inativo",
+    "nome": "Janet Smith",
+    "email": "janetsmith@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "12/06/2022",
+    "rescisao": "03/02/2023",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 15,
+    "status": "ativo",
+    "nome": "Patrick Cox",
+    "email": "patrickcox@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "11/10/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 16,
+    "status": "ativo",
+    "nome": "Caitlin Johnston",
+    "email": "caitlinjohnston@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "17/12/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 17,
+    "status": "inativo",
+    "nome": "Bryan Case",
+    "email": "bryancase@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "06/10/2021",
+    "rescisao": "10/09/2022",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 18,
+    "status": "ativo",
+    "nome": "Sharon Barr",
+    "email": "sharonbarr@kpis.tech",
+    "email_gestor": "daniellewinters@kpis.tech",
+    "admissao": "22/08/2022",
+    "rescisao": "",
+    "cargo": "Supervisor"
+  },
+  {
+    "id": 19,
+    "status": "ativo",
+    "nome": "Robin Mcdaniel",
+    "email": "robinmcdaniel@kpis.tech",
+    "email_gestor": "daniellewinters@kpis.tech",
+    "admissao": "07/12/2020",
+    "rescisao": "",
+    "cargo": "Supervisor"
+  },
+  {
+    "id": 20,
+    "status": "ativo",
+    "nome": "Molly Edwards",
+    "email": "mollyedwards@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "22/01/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 21,
+    "status": "ativo",
+    "nome": "Amy Dennis",
+    "email": "amydennis@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "26/11/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 22,
+    "status": "ativo",
+    "nome": "Tony Nelson",
+    "email": "tonynelson@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "25/10/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 23,
+    "status": "ativo",
+    "nome": "Lawrence Robbins",
+    "email": "lawrencerobbins@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "29/08/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 24,
+    "status": "ativo",
+    "nome": "Paul Saunders",
+    "email": "paulsaunders@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "18/08/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 25,
+    "status": "ativo",
+    "nome": "Elizabeth Campbell",
+    "email": "elizabethcampbell@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "12/03/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 26,
+    "status": "ativo",
+    "nome": "Richard May",
+    "email": "richardmay@kpis.tech",
+    "email_gestor": "daniellewinters@kpis.tech",
+    "admissao": "03/10/2022",
+    "rescisao": "",
+    "cargo": "Supervisor"
+  },
+  {
+    "id": 27,
+    "status": "ativo",
+    "nome": "Patrick Hall",
+    "email": "patrickhall@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "18/12/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 28,
+    "status": "ativo",
+    "nome": "James Johnson",
+    "email": "jamesjohnson@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "14/04/2022",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 29,
+    "status": "ativo",
+    "nome": "Ruth Fernandez",
+    "email": "ruthfernandez@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "11/10/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 30,
+    "status": "inativo",
+    "nome": "Ariel Williams",
+    "email": "arielwilliams@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "10/10/2020",
+    "rescisao": "10/10/2021",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 31,
+    "status": "inativo",
+    "nome": "Valerie Johnson",
+    "email": "valeriejohnson@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "12/09/2021",
+    "rescisao": "14/05/2022",
+    "cargo": "Analista"
+  },
+  {
+    "id": 32,
+    "status": "ativo",
+    "nome": "William Brewer",
+    "email": "williambrewer@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "21/08/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 33,
+    "status": "ativo",
+    "nome": "Kelly Thomas",
+    "email": "kellythomas@kpis.tech",
+    "email_gestor": "mitchellpeters@kpis.tech",
+    "admissao": "10/11/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 34,
+    "status": "inativo",
+    "nome": "Kevin Conner",
+    "email": "kevinconner@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "03/02/2022",
+    "rescisao": "15/03/2022",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 35,
+    "status": "ativo",
+    "nome": "Daniel Hill",
+    "email": "danielhill@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "03/05/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 36,
+    "status": "ativo",
+    "nome": "Barbara Perez",
+    "email": "barbaraperez@kpis.tech",
+    "email_gestor": "kathleenroberts@kpis.tech",
+    "admissao": "31/10/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 37,
+    "status": "inativo",
+    "nome": "Mr. David Ramirez",
+    "email": "mr.davidramirez@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "08/09/2022",
+    "rescisao": "22/03/2023",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 38,
+    "status": "ativo",
+    "nome": "Clinton Hayes",
+    "email": "clintonhayes@kpis.tech",
+    "email_gestor": "kathleenroberts@kpis.tech",
+    "admissao": "10/10/2021",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 39,
+    "status": "inativo",
+    "nome": "Justin Jensen",
+    "email": "justinjensen@kpis.tech",
+    "email_gestor": "kathleenroberts@kpis.tech",
+    "admissao": "28/01/2021",
+    "rescisao": "27/03/2021",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 40,
+    "status": "inativo",
+    "nome": "Kathleen Roberts",
+    "email": "kathleenroberts@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "28/07/2021",
+    "rescisao": "17/02/2022",
+    "cargo": "Designer"
+  },
+  {
+    "id": 41,
+    "status": "ativo",
+    "nome": "Alicia Smith",
+    "email": "aliciasmith@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "08/12/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 42,
+    "status": "ativo",
+    "nome": "Craig Sutton III",
+    "email": "craigsuttoniii@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "16/11/2020",
+    "rescisao": "",
+    "cargo": "Designer"
+  },
+  {
+    "id": 43,
+    "status": "inativo",
+    "nome": "Michelle Flynn",
+    "email": "michelleflynn@kpis.tech",
+    "email_gestor": "kathleenroberts@kpis.tech",
+    "admissao": "25/08/2021",
+    "rescisao": "05/03/2022",
+    "cargo": "Designer"
+  },
+  {
+    "id": 44,
+    "status": "ativo",
+    "nome": "Brandon Miller",
+    "email": "brandonmiller@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "17/09/2021",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 45,
+    "status": "ativo",
+    "nome": "Michelle Miller",
+    "email": "michellemiller@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "17/07/2021",
+    "rescisao": "",
+    "cargo": "Designer"
+  },
+  {
+    "id": 46,
+    "status": "inativo",
+    "nome": "Melinda Terry",
+    "email": "melindaterry@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "20/06/2021",
+    "rescisao": "28/07/2021",
+    "cargo": "Designer"
+  },
+  {
+    "id": 47,
+    "status": "inativo",
+    "nome": "Thomas Lopez",
+    "email": "thomaslopez@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "16/03/2021",
+    "rescisao": "02/09/2021",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 48,
+    "status": "ativo",
+    "nome": "Mackenzie Young",
+    "email": "mackenzieyoung@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "21/04/2020",
+    "rescisao": "",
+    "cargo": "Designer"
+  },
+  {
+    "id": 49,
+    "status": "ativo",
+    "nome": "Natasha Taylor",
+    "email": "natashataylor@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "13/03/2020",
+    "rescisao": "",
+    "cargo": "Designer"
+  },
+  {
+    "id": 50,
+    "status": "ativo",
+    "nome": "William Frost",
+    "email": "williamfrost@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "25/08/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 51,
+    "status": "inativo",
+    "nome": "Alexandra Thomas",
+    "email": "alexandrathomas@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "13/09/2021",
+    "rescisao": "18/12/2021",
+    "cargo": "Analista"
+  },
+  {
+    "id": 52,
+    "status": "ativo",
+    "nome": "Peter Gonzalez",
+    "email": "petergonzalez@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "11/07/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 53,
+    "status": "ativo",
+    "nome": "Andrew Williams",
+    "email": "andrewwilliams@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "13/03/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 54,
+    "status": "ativo",
+    "nome": "David Brady",
+    "email": "davidbrady@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "14/06/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 55,
+    "status": "ativo",
+    "nome": "Veronica Alvarado",
+    "email": "veronicaalvarado@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "26/02/2021",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 56,
+    "status": "ativo",
+    "nome": "Howard Johnston",
+    "email": "howardjohnston@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "04/03/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 57,
+    "status": "ativo",
+    "nome": "Linda Smith",
+    "email": "lindasmith@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "11/08/2020",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 58,
+    "status": "ativo",
+    "nome": "Michael Kim",
+    "email": "michaelkim@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "28/08/2021",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 59,
+    "status": "inativo",
+    "nome": "Robert Keith",
+    "email": "robertkeith@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "26/10/2020",
+    "rescisao": "05/02/2021",
+    "cargo": "Analista"
+  },
+  {
+    "id": 60,
+    "status": "inativo",
+    "nome": "Jason Wright DDS",
+    "email": "jasonwrightdds@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "31/07/2021",
+    "rescisao": "03/09/2021",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 61,
+    "status": "ativo",
+    "nome": "Mary Hayes",
+    "email": "maryhayes@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "13/06/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 62,
+    "status": "inativo",
+    "nome": "Shane Bonilla Jr.",
+    "email": "shanebonillajr.@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "01/01/2021",
+    "rescisao": "21/07/2021",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 63,
+    "status": "ativo",
+    "nome": "Mr. Brian Dudley",
+    "email": "mr.briandudley@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "20/12/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 64,
+    "status": "inativo",
+    "nome": "James Miller",
+    "email": "jamesmiller@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "19/12/2020",
+    "rescisao": "16/09/2021",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 65,
+    "status": "ativo",
+    "nome": "Rachael Murphy",
+    "email": "rachaelmurphy@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "16/06/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 66,
+    "status": "ativo",
+    "nome": "Lori Campbell",
+    "email": "loricampbell@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "18/03/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 67,
+    "status": "ativo",
+    "nome": "Laurie Marshall",
+    "email": "lauriemarshall@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "21/04/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 68,
+    "status": "ativo",
+    "nome": "Robert Holmes",
+    "email": "robertholmes@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "22/05/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 69,
+    "status": "ativo",
+    "nome": "Roger King",
+    "email": "rogerking@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "09/07/2021",
+    "rescisao": "",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 70,
+    "status": "inativo",
+    "nome": "Michael Rodriguez",
+    "email": "michaelrodriguez@kpis.tech",
+    "email_gestor": "loricampbell@kpis.tech",
+    "admissao": "03/04/2021",
+    "rescisao": "18/07/2021",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 71,
+    "status": "ativo",
+    "nome": "Crystal Taylor",
+    "email": "crystaltaylor@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "26/09/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 72,
+    "status": "inativo",
+    "nome": "Erik Gomez",
+    "email": "erikgomez@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "18/03/2022",
+    "rescisao": "03/04/2022",
+    "cargo": "Analista"
+  },
+  {
+    "id": 73,
+    "status": "ativo",
+    "nome": "Ricky Lopez",
+    "email": "rickylopez@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "04/10/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 74,
+    "status": "ativo",
+    "nome": "Kristina Hampton",
+    "email": "kristinahampton@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "27/09/2022",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 75,
+    "status": "ativo",
+    "nome": "Stacy Steele",
+    "email": "stacysteele@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "15/12/2020",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 76,
+    "status": "ativo",
+    "nome": "Shirley Alexander",
+    "email": "shirleyalexander@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "14/01/2022",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 77,
+    "status": "ativo",
+    "nome": "Kyle Hogan",
+    "email": "kylehogan@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "10/12/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 78,
+    "status": "inativo",
+    "nome": "Rebecca Knight",
+    "email": "rebeccaknight@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "10/06/2021",
+    "rescisao": "26/01/2022",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 79,
+    "status": "inativo",
+    "nome": "Mario Watson",
+    "email": "mariowatson@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "22/04/2022",
+    "rescisao": "25/10/2022",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 80,
+    "status": "ativo",
+    "nome": "Elizabeth Dawson",
+    "email": "elizabethdawson@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "06/09/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 81,
+    "status": "inativo",
+    "nome": "Megan Mccarty",
+    "email": "meganmccarty@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "22/03/2021",
+    "rescisao": "14/01/2022",
+    "cargo": "Analista"
+  },
+  {
+    "id": 82,
+    "status": "inativo",
+    "nome": "Evan Gutierrez",
+    "email": "evangutierrez@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "23/07/2022",
+    "rescisao": "12/03/2023",
+    "cargo": "Analista"
+  },
+  {
+    "id": 83,
+    "status": "inativo",
+    "nome": "Patrick Garrison",
+    "email": "patrickgarrison@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "09/04/2021",
+    "rescisao": "07/04/2022",
+    "cargo": "Analista"
+  },
+  {
+    "id": 84,
+    "status": "inativo",
+    "nome": "Derek Gilbert",
+    "email": "derekgilbert@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "04/02/2022",
+    "rescisao": "10/08/2022",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 85,
+    "status": "inativo",
+    "nome": "Travis Johnson",
+    "email": "travisjohnson@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "07/06/2022",
+    "rescisao": "18/04/2023",
+    "cargo": "Estagiário"
+  },
+  {
+    "id": 86,
+    "status": "ativo",
+    "nome": "Roberta Stone",
+    "email": "robertastone@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "24/05/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 87,
+    "status": "ativo",
+    "nome": "Douglas Pittman",
+    "email": "douglaspittman@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "31/01/2020",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 88,
+    "status": "inativo",
+    "nome": "Lisa Robinson",
+    "email": "lisarobinson@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "26/01/2021",
+    "rescisao": "11/03/2021",
+    "cargo": "Analista"
+  },
+  {
+    "id": 89,
+    "status": "ativo",
+    "nome": "Marissa Hudson DDS",
+    "email": "marissahudsondds@kpis.tech",
+    "email_gestor": "mollyedwards@kpis.tech",
+    "admissao": "09/08/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 90,
+    "status": "ativo",
+    "nome": "Timothy Hays",
+    "email": "timothyhays@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "15/03/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 91,
+    "status": "inativo",
+    "nome": "David Williams",
+    "email": "davidwilliams@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "17/07/2021",
+    "rescisao": "26/04/2022",
+    "cargo": "Analista"
+  },
+  {
+    "id": 92,
+    "status": "inativo",
+    "nome": "Matthew Tyler",
+    "email": "matthewtyler@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "08/05/2021",
+    "rescisao": "03/11/2021",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 93,
+    "status": "ativo",
+    "nome": "Rachael Mcpherson",
+    "email": "rachaelmcpherson@kpis.tech",
+    "email_gestor": "sharonbarr@kpis.tech",
+    "admissao": "02/05/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 94,
+    "status": "inativo",
+    "nome": "Christopher Rubio",
+    "email": "christopherrubio@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "17/01/2020",
+    "rescisao": "08/02/2020",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 95,
+    "status": "ativo",
+    "nome": "Jerry Williamson",
+    "email": "jerrywilliamson@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "15/10/2022",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 96,
+    "status": "inativo",
+    "nome": "Ashlee Boyd",
+    "email": "ashleeboyd@kpis.tech",
+    "email_gestor": "richardmay@kpis.tech",
+    "admissao": "17/09/2020",
+    "rescisao": "29/04/2021",
+    "cargo": "Analista"
+  },
+  {
+    "id": 97,
+    "status": "ativo",
+    "nome": "Ashley Carter",
+    "email": "ashleycarter@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "23/06/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  },
+  {
+    "id": 98,
+    "status": "ativo",
+    "nome": "Sara Walters",
+    "email": "sarawalters@kpis.tech",
+    "email_gestor": "robinmcdaniel@kpis.tech",
+    "admissao": "13/12/2021",
+    "rescisao": "",
+    "cargo": "Engenheiro"
+  },
+  {
+    "id": 99,
+    "status": "ativo",
+    "nome": "Michael Goodwin",
+    "email": "michaelgoodwin@kpis.tech",
+    "email_gestor": "shanebonillajr.@kpis.tech",
+    "admissao": "07/04/2021",
+    "rescisao": "",
+    "cargo": "Analista"
+  }
+]
