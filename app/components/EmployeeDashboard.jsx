@@ -18,7 +18,7 @@ const EmployeeDashboard = ({ ...props }) => {
           return {
             x: item.mes_ano,
             y: (item.headcount_inicio_mes === '0' || item.headcount_fim_mes === '0') ? '0' :
-              ((item.headcount_inicio_mes + item.headcount_fim_mes) / 2).toFixed(2)
+              ((item.headcount_inicio_mes + item.headcount_fim_mes) / 2)
           }
         }),
       }]
